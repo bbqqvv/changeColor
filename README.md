@@ -2,7 +2,7 @@
 Ứng dụng RGB Color Checker là một công cụ đơn giản cho phép bạn kiểm tra và xem trước các màu sắc RGB (Red, Green, Blue). Bằng cách nhập các giá trị từ 0 đến 255 vào tệp .md này, bạn có thể dễ dàng xác định và kiểm tra màu sắc theo yêu cầu của mình.
 
 # Cách sử dụng
-Để sử dụng ứng dụng này, bạn chỉ cần nhập các giá trị RGB vào tệp .md này. Mỗi dòng trong tệp đại diện cho một màu sắc. Bạn cần nhập ba số nguyên tách biệt bởi dấu cách, mỗi số đại diện cho giá trị của một thành phần màu (Red, Green, Blue). Ví dụ:
+Để sử dụng ứng dụng này, bạn chỉ cần nhập các giá trị RGB vào ô textField và bảng màu nó sẽ tự hiển thị theo các con số bạn nhập
 
 255 0 0 - Đại diện cho màu đỏ tuyệt đối (Red: 255, Green: 0, Blue: 0).
 0 255 0 - Đại diện cho màu xanh lá cây tuyệt đối (Red: 0, Green: 255, Blue: 0).
