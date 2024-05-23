@@ -1,8 +1,7 @@
-# RGB Color Checker
-Ứng dụng RGB Color Checker là một công cụ đơn giản cho phép bạn kiểm tra và xem trước các màu sắc RGB (Red, Green, Blue). Bằng cách nhập các giá trị từ 0 đến 255 vào các Field , bạn có thể dễ dàng xác định và kiểm tra màu sắc theo yêu cầu của mình. (Hơi vô tri)
 
 # Cách sử dụng
 Để sử dụng ứng dụng này, bạn chỉ cần nhập các giá trị RGB vào ô textField và bảng màu nó sẽ tự hiển thị theo các con số bạn nhập
+![image](https://github.com/vanbuidevTech/changeColor/assets/116750804/ea764d72-2717-4758-b83e-9d31a0c29504)
 
 **Ví dụ**
 255 0 0 - Đại diện cho màu đỏ tuyệt đối (Red: 255, Green: 0, Blue: 0).
